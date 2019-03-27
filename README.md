@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # CoreUI Free Angular 2+ Admin Template [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social&logo=twitter)](https://twitter.com/intent/tweet?text=CoreUI%20-%20Free%20Bootstrap%204%20Admin%20Template%20&url=https://coreui.io&hashtags=bootstrap,admin,template,dashboard,panel,free,angular,react,vue)
 
 Please help us on [Product Hunt](https://www.producthunt.com/posts/coreui-open-source-bootstrap-4-admin-template-with-angular-2-react-js-vue-js-support) and [Designer News](https://www.designernews.co/stories/81127). Thanks in advance!
@@ -151,4 +150,3 @@ As of now I am exploring the possibility of working on CoreUI fulltime - if you 
 =======
 # AngularApp
 AngularApp
->>>>>>> 275970535b22eac5019a9e351534f253398c00b0
